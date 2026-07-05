@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Kapil 👋
 
-<!--
-**Kapil-dev21/kapil-dev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 MCA Student
+- 💻 Learning C, C++, DSA, SQL, and Web Development
+- 🌱 Currently improving problem-solving skills
+- 🚀 Working towards becoming a Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+- C
+- C++
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Git & GitHub
+- Node.js
+- MongoDB
+
+---
+
+## 🎯 2026 Goals
+
+- Solve 300+ DSA problems
+- Build Full Stack Projects
+- Contribute to Open Source
+- Get a Software Developer Internship
+
+---
+
+⭐ Thanks for visiting my profile!
